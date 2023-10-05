@@ -50,7 +50,7 @@ def Analysis_by_Neighborhood(data):
 
  ![Neighbourhood](https://github.com/cmeddata/cmeddata.github.io/assets/124543750/2b34a2f0-846d-42be-bf8a-e1fd25908f86)
 
-- If you want to see my full data analysis on this subject, click on either my github profile or this link here. [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cmeddata/sf-car-breakins-analysis/blob/main/README.md)
+
 
 
 ### Assessing COVID-19 in San Francisco: A closer look at Neighborhoods and its impact on COVID-19 cases 
