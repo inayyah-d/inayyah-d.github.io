@@ -1,2 +1,2 @@
-# cmeddata.github.io
+# inayyah-d.github.io
 Personal Website Portfolio
