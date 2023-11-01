@@ -8,9 +8,9 @@ Welcome to my GitHub portfolio dedicated to data analysis and data science! I'm 
 ## Projects
 
 ### Assessing COVID-19 in San Francisco: A closer look at Neighborhoods and its impact on COVID-19 cases 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cmeddata/sf-covid19-neighborhood-analysis)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/inayyah-d/sf-covid19-neighborhood-analysis)
 
-![Poster](https://github.com/cmeddata/cmeddata.github.io/assets/124543750/b8999ef0-0ec0-49f1-9749-d37902712b0b)
+![Poster](https://github.com/inayyah-d/inayyah-d.github.io/assets/124543750/b8999ef0-0ec0-49f1-9749-d37902712b0b)
 
 
  - In this project, I conducted a comprehensive analysis of neighborhoods in San Francisco and their potential impact on the cumulative rate of COVID-19. I utilized Excel to perform this analysis, employing various statistical techniques to explore the relationships between several independent variables and the dependent variable, which was the cumulative rate of COVID-19 cases.
