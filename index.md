@@ -9,6 +9,7 @@ Welcome to my GitHub portfolio dedicated to data analysis and data science! I'm 
 
 ### Assessing COVID-19 in San Francisco: A closer look at Neighborhoods and its impact on COVID-19 cases 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/inayyah-d/sf-covid19-neighborhood-analysis)
+
 ![Poster](https://github.com/inayyah-d/inayyah-d.github.io/assets/124543750/b8999ef0-0ec0-49f1-9749-d37902712b0b)
 
 
